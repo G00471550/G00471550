@@ -1,4 +1,4 @@
-# Hi there! I'm Valentyn 👋
+# Hi! I'm Valentyn
 ### Digital Media Student
 ---
 
