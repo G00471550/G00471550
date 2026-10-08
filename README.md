@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there! I'm [Твоє Ім'я або Нікнейм] 👋
+### Digital Designer & VR Enthusiast 🚀
 
-<!--
-**G00471550/G00471550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a digital design student passionate about creating immersive spaces, 3D worlds, and interactive experiences. I focus on bringing virtual reality to life through 3D modeling, animation, and real-time engines.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **3D & Animation:** Blender
+- **Game Engines:** Unity
+- **Web Design:** HTML5, CSS3, JavaScript (UI/UX design & prototyping)
+
+---
+
+### 🎨 Featured Projects
+
+#### 🕹️ VR & Interactive Experiences
+* **[Назва твоєї гри на Unity]**
+  * *Description:* A 3D interactive game built with Unity. Focused on level design, environment art, and user experience.
+  * *Tech used:* Unity, Blender
+
+#### 🎬 3D Art & Motion Design (Blender)
+* **3D Animations & Cinematic Videos**
+  * *Description:* A collection of my 3D renders, character/environment animations, and motion graphics created in Blender.
+  * *Watch here:* [Встав сюди посилання на YouTube/Vimeo або Behance, де завантажені твої відео]
+
+#### 🌐 Web & UI/UX Design
+* **Web Prototyping Projects**
+  * *Description:* A selection of responsive websites and interactive concepts built during my digital design studies.
+  * *Tech used:* HTML, CSS, JavaScript
+
+---
+
+### 📫 Connect with me
+- **LinkedIn:** [Твоє посилання]
+- **Behance / ArtStation:** [Твоє посилання, якщо є]
+- **Email:** [Твій email]
