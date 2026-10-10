@@ -8,7 +8,7 @@
 
 ---
 
-## 🌐 Social
+## 🌐 Social <br></br>
 
 
 <a href="mailto:g00471550@atu.ie"> <img src="https://img.shields.io/badge/Outlook-348cf7?style=plastic&logoColor=white" alt="outlook" /> </a> &nbsp;&nbsp;
