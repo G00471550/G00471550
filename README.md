@@ -27,10 +27,7 @@
   
 <img src="https://img.shields.io/badge/canva-520c94?style=for-the-badge" alt="canva" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Adobe-f03232?style=for-the-badge" alt="adobe" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Adobe%20Photoshop-162987?style=for-the-badge" alt="photoshop" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Adobe%20Animate-37078a?style=for-the-badge" alt="animate" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Adobe%20Illustrator-8c2b0b?style=for-the-badge" alt="illustrator" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/Adobe%20Indesign-8c0e3a?style=for-the-badge" alt="indesign" /> 
   
-<img src="https://img.shields.io/badge/Adobe%20after%20effects-3f0c75?style=for-the-badge" alt="effects" /> &nbsp;&nbsp;  <img src="https://img.shields.io/badge/mysql-orange?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=orange&color=blue" alt="mysql" /> &nbsp;&nbsp;  <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-
-
-&nbsp;&nbsp; <img src="" alt="" /> 
+<img src="https://img.shields.io/badge/Adobe%20after%20effects-3f0c75?style=for-the-badge" alt="effects" /> &nbsp;&nbsp;  <img src="https://img.shields.io/badge/mysql-orange?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto&labelColor=orange&color=blue" alt="mysql" /> &nbsp;&nbsp;  <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="github" /> &nbsp;&nbsp; <img src="https://img.shields.io/badge/bootstrap-58059c?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> 
 </p>
 
 ---
